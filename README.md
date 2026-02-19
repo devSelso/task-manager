@@ -1,7 +1,5 @@
 # 📋 Task Manager - Full Stack Application
 
-![Task Manager](https://imgur.com/a/DSM3VLP)
-
 Um aplicativo completo de gerenciamento de tarefas desenvolvido com React, Node.js e MySQL.
 
 ## 📸 Screenshots
@@ -49,7 +47,7 @@ Um aplicativo completo de gerenciamento de tarefas desenvolvido com React, Node.
 - MySQL (v8+)
 - npm ou yarn
 
-### Backend
+# Backend
 ```bash
 cd backend
 npm install
@@ -64,7 +62,7 @@ DB_HOST=localhost
 JWT_SECRET=sua_chave_secreta
 
 
-### Frontend
+# Frontend
 bash
 cd frontend
 npm install
