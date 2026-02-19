@@ -46,6 +46,16 @@ Um aplicativo completo de gerenciamento de tarefas desenvolvido com React, Node.
 - MySQL (v8+)
 - npm ou yarn
 
+Crie um arquivo .env na pasta backend:
+
+env
+PORT=3001
+DB_NAME=task_manager
+DB_USER=root
+DB_PASSWORD=sua_senha
+DB_HOST=localhost
+JWT_SECRET=sua_chave_secreta
+
 ---------
 
 👨‍💻 Autor
