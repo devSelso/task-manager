@@ -121,7 +121,7 @@ Ou crie sua própria conta na tela de registro
 
 📸 Screenshots
 
-<img src="[images/my_image.png](https://github.com/devSelso/task-manager/blob/main/login.png)" alt="My Image Description" width="300" height="200">
+![image alt](https://github.com/devSelso/task-manager/blob/3b2d4fe373a4c21fe2d8b7af5fa7a823f9e7f91e/page%20(2).png)
 
 
 
