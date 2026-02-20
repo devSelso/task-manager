@@ -120,6 +120,4 @@ Ou crie sua própria conta na tela de registro
 
 📸 Screenshot
 
-<img width="1919" height="909" alt="Rd1xsuv - Imgur" src="https://github.com/user-attachments/assets/aa82c0bc-c25c-4cf8-96a7-7910435986d4" />
-<img width="1919" height="909" alt="0LMNajw - Imgur" src="https://github.com/user-attachments/assets/5139f3ae-69d5-4334-b49e-d3d820f7e774" />
-<img width="1915" height="910" alt="gKxrZeS - Imgur" src="https://github.com/user-attachments/assets/95af4c94-c89b-474c-8626-bd5d546ea37d" />
+<img width="1919" height="909" alt="Rd1xsuv - Imgur" src="https://imgur.com/a/DZQqJaT"/>
