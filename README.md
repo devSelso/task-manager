@@ -60,7 +60,6 @@ Por fim, padronizei toda a identidade visual com Tailwind CSS, mantendo a paleta
 - **Design system** - Manter consistência visual com Tailwind CSS
 - **Experiência do usuário** - Adicionar notificações toast para feedback das ações
 
-
 ## 🚀 Como ele pode ser melhorado
 
 - [ ] **Modo escuro** - Alternar entre tema claro e escuro mantendo a identidade visual
@@ -117,10 +116,14 @@ Email: teste@email.com
 Senha: 123456
 
 Ou crie sua própria conta na tela de registro
-```bash
+```
 
-📸 Screenshots
-  <img src="login.png" alt="Tela de Login" width="400"/>
+
+### 📸 Screenshots
+
+  <img src="login.png" alt="Tela de Tarefas" width="1100"/>
+  <img src="page.png" alt="Tela de Tarefas" width="1100"/>
+  <img src="page (2).png" alt="Tela de Tarefas" width="1100"/>
 
 
 
