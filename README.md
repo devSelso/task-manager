@@ -4,6 +4,7 @@ Task Manager é uma aplicação full-stack completa de gerenciamento de tarefas 
 
 A motivação principal foi criar uma ferramenta útil para o dia a dia enquanto aprendia na prática como integrar frontend, backend e banco de dados em uma aplicação real.
 
+
 ## 🛠️ Tecnologias que Usei
 
 **Frontend:**
@@ -22,6 +23,7 @@ A motivação principal foi criar uma ferramenta útil para o dia a dia enquanto
 - 🔐 **JWT** - Autenticação segura com tokens
 - 🔒 **Bcrypt** - Criptografia de senhas
 
+
 ## ✨ Recursos / O que o usuário pode fazer
 
 - ✅ **Criar conta e fazer login** - Sistema completo de autenticação com JWT
@@ -35,6 +37,7 @@ A motivação principal foi criar uma ferramenta útil para o dia a dia enquanto
 - ✅ **Interface responsiva** - Funciona em desktop, tablet e mobile
 - ✅ **Design moderno** - Efeito glassmorphism e gradientes
 
+
 ## 🔧 Processo / Como o construí
 
 O desenvolvimento começou pela modelagem do banco de dados com Sequelize, criando as tabelas de usuários e tarefas com seus relacionamentos. Em seguida, construí a API REST com Node.js e Express, implementando rotas para autenticação (registro/login) e operações CRUD das tarefas, protegidas por middleware JWT.
@@ -44,6 +47,7 @@ No frontend, estruturei o projeto com Vite e React, criando componentes reutiliz
 O maior desafio foi integrar todas as partes - garantir que o frontend se comunicasse corretamente com a API, que os tokens JWT fossem enviados em cada requisição, e que a experiência do usuário fosse fluida. As validações no formulário de criação de tarefas e o sistema de notificações para prazos próximos foram recursos que exigiram atenção especial aos detalhes.
 
 Por fim, padronizei toda a identidade visual com Tailwind CSS, mantendo a paleta de cores consistente em todas as telas e adicionando efeitos glassmorphism para um visual moderno.
+
 
 ## 📚 O que aprendi
 
@@ -56,6 +60,7 @@ Por fim, padronizei toda a identidade visual com Tailwind CSS, mantendo a paleta
 - **Design system** - Manter consistência visual com Tailwind CSS
 - **Experiência do usuário** - Adicionar notificações toast para feedback das ações
 
+
 ## 🚀 Como ele pode ser melhorado
 
 - [ ] **Modo escuro** - Alternar entre tema claro e escuro mantendo a identidade visual
@@ -66,6 +71,7 @@ Por fim, padronizei toda a identidade visual com Tailwind CSS, mantendo a paleta
 - [ ] **Busca e filtros** - Pesquisar tarefas e filtrar por categoria/status
 - [ ] **Exportação de dados** - Exportar tarefas para CSV ou PDF
 - [ ] **Modo offline** - Funcionar sem internet e sincronizar quando voltar
+
 
 ## 💻 Como executar o projeto
 
@@ -110,6 +116,7 @@ Credenciais para teste
 Email: teste@email.com
 Senha: 123456
 Ou crie sua própria conta na tela de registro
+
 
 📸 Screenshot
 
