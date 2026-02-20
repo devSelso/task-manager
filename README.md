@@ -120,4 +120,4 @@ Ou crie sua própria conta na tela de registro
 
 📸 Screenshot
 
-<img width="1919" height="909" alt="Rd1xsuv - Imgur" src="https://imgur.com/a/DZQqJaT"/>
+https://imgur.com/a/DZQqJaT
