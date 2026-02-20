@@ -123,7 +123,7 @@ Ou crie sua própria conta na tela de registro
 
   <img src="login.png" alt="Tela de Tarefas" width="1100"/>
   <img src="page.png" alt="Tela de Tarefas" width="1100"/>
-  <img src="page (2).png" alt="Tela de Tarefas" width="1100"/>
+  <img src="page2.png" alt="Tela de Tarefas" width="1100"/>
 
 
 
