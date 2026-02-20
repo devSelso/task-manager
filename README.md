@@ -119,7 +119,3 @@ Senha: 123456
 Ou crie sua própria conta na tela de registro
 
 
-📸 Screenshot
-https://imgur.com/VnybM6i
-<img src="[images/my_image.png](https://imgur.com/VnybM6i)" alt="My Image Description" width="300" height="200">
-
