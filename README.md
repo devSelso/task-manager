@@ -115,11 +115,11 @@ npm run dev
 Credenciais para teste
 Email: teste@email.com
 Senha: 123456
+
 Ou crie sua própria conta na tela de registro
 
 
 📸 Screenshot
-
+https://imgur.com/VnybM6i
 <img src="[images/my_image.png](https://imgur.com/VnybM6i)" alt="My Image Description" width="300" height="200">
-<img src="https://imgur.com/VnybM6i" alt="My Image Description" width="300" height="200">
-[Imgur](https://imgur.com/VnybM6i)
+
