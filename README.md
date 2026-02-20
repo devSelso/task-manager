@@ -117,7 +117,7 @@ Email: teste@email.com
 Senha: 123456
 
 Ou crie sua própria conta na tela de registro
-
+```bash
 
 📸 Screenshots
   <img src="login.png" alt="Tela de Login" width="400"/>
