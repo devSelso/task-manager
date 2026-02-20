@@ -120,4 +120,6 @@ Ou crie sua própria conta na tela de registro
 
 📸 Screenshot
 
-<img src="https://imgur.com/a/DZQqJaT" alt="Ingur">
+<img src="[images/my_image.png](https://imgur.com/VnybM6i)" alt="My Image Description" width="300" height="200">
+<img src="https://imgur.com/VnybM6i" alt="My Image Description" width="300" height="200">
+[Imgur](https://imgur.com/VnybM6i)
