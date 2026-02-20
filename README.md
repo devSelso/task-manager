@@ -78,7 +78,7 @@ Por fim, padronizei toda a identidade visual com Tailwind CSS, mantendo a paleta
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/task-manager.git
+git clone https://github.com/devselso/task-manager.git
 cd task-manager
 
 # Configuração do Backend
