@@ -120,8 +120,8 @@ Ou crie sua própria conta na tela de registro
 
 
 📸 Screenshots
+  <img src="login.png" alt="Tela de Login" width="400"/>
 
-![image alt](https://github.com/devSelso/task-manager/blob/3b2d4fe373a4c21fe2d8b7af5fa7a823f9e7f91e/page%20(2).png)
 
 
 
